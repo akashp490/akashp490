@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akashp490
+- 👋 Hi, I’m akashp490
 - 👀 I’m interested in open source
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
