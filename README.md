@@ -1,7 +1,7 @@
-- 👋 Hi, I’m akashp490
-- 👀 I’m interested in react
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m akash on the same
+- 👀 I’m interested in the front end side of things!!
+- 🌱 I’m currently learning react.js
+- 💞️ I’m looking to collaborate on  react projects
 - 📫 We can connect through my mail address- akashpatro490@gmail.com
 
 <!---
