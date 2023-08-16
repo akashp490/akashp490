@@ -1,4 +1,4 @@
-- 👋 Hi, I’m akash on the same
+- 👋 Hi, Akash this side..
 - 👀 I’m interested in the front end side of things!!
 - 🌱 I’m currently learning react.js
 - 💞️ I’m looking to collaborate on  react projects
